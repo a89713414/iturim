@@ -1,0 +1,1081 @@
+{
+  "common": {
+    "header": {
+      "phone": "Call",
+      "contact": "Contact Us",
+      "nav": {
+        "destinations": "Destinations",
+        "hotels": "Hotels",
+        "attractions": {
+          "label": "Attractions",
+          "dropdown": {
+            "siargao": "Attractions in Siargao",
+            "palawan": "Attractions in Palawan",
+            "boracay": "Attractions in Boracay"
+          }
+        },
+        "flights": {
+          "label": "Flights",
+          "dropdown": {
+            "domestic": "Domestic flights in Philippines",
+            "direct": "Flights to Philippines",
+            "viaJordan": "Flight to Philippines via Jordan"
+          }
+        },
+        "families": {
+          "label": "Families",
+          "dropdown": {
+            "philippines": "Philippines with kids",
+            "siargao": "Siargao with kids",
+            "palawan": "Palawan with kids",
+            "boracay": "Boracay Lak with kids"
+          }
+        },
+        "honeymoon": {
+          "label": "Honeymoon",
+          "dropdown": {
+            "young": "Philippines for young people",
+            "couples": "Philippines for couples – honeymoon in Philippines",
+            "fullMoon": "Full Moon in Siargao",
+            "halfMoon": "Half Moon in Palawan"
+          }
+        },
+        "info": {
+          "label": "Information",
+          "dropdown": {
+            "packages": "Vacation packages",
+            "groups": "Groups",
+            "recommendations": "Recommendations",
+            "bookingTerms": "Booking terms",
+            "about": "About",
+            "contact": "Contact",
+            "weather": "Weather in Philippines – when is it not recommended to fly?",
+            "map": "Philippines map and directions",
+            "ferries": "Ferries in Philippines",
+            "jobs": "Job openings in Philippines",
+            "emergency": "Emergency information"
+          }
+        },
+        "magazine": "Magazine"
+      }
+    },
+    "footer": {
+      "destinations": {
+        "title": "Destinations"
+      },
+      "usefulLinks": {
+        "title": "Useful",
+        "items": {
+          "siargaoHotels": "Siargao Hotels",
+          "boracayHotels": "Boracay Hotels",
+          "palawanHotels": "Palawan Hotels",
+          "domesticFlights": "Domestic Flights",
+          "internationalFlights": "International Flights",
+          "ferries": "Ferries",
+          "withChildren": "Traveling with Children"
+        }
+      },
+      "information": {
+        "title": "Information",
+        "items": {
+          "aboutUs": "About Us",
+          "bookingConditions": "Booking Conditions",
+          "recommendations": "Recommendations",
+          "contactUs": "Contact Us",
+          "workInPhilippines": "Work in the Philippines",
+          "chabadHouse": "Chabad House",
+          "weather": "Weather",
+          "emergencyInfo": "Emergency Information"
+        }
+      }
+    },
+    "404": {
+      "title": "Oops!",
+      "text": "This page isn’t ready yet — we’re working hard to bring it to you soon.",
+      "lint_text": "Back home"
+    },
+    "feedbackCard": {
+      "showMore": "Read more",
+      "showLess": "Show less"
+    }
+  },
+  "homepage": {
+    "hero": {
+      "title": "Dream Tours Philippines",
+      "subtitleTop": "Vacation in Philippines 2025",
+      "subtitleBottom": "Starts Here!"
+    },
+    "destinations": {
+      "title": "Destinations in Philippines",
+      "btnTitle": "To all destinations",
+      "destination_1": "Boracay",
+      "destination_2": "El Nido",
+      "destination_3": "Siargao",
+      "destination_4": "Palawan",
+      "destination_5": "Bohol",
+      "destination_6": "Banaue"
+    },
+    "whyUs": {
+      "question": "Why Us?",
+      "answer": "Because you deserve more",
+      "description": "We are leading a change in how the Israeli traveler experiences Philippines — no more of the same generic destinations and hotels. We don't reinvent Philippines, we offer it to you as it truly is: authentic, real, and magical. Philippines is a diverse destination that, with proper planning and the right choices, can suit everyone. That's why it's important to choose wisely – Dream Tours Philippines.",
+      "reason_1": {
+        "title_1": "Satisfied",
+        "title_2": "Customers",
+        "description": "Satisfied customers are our fuel. A happy client will recommend us to others, so our goal is to meet every expectation."
+      },
+      "reason_2": {
+        "title_1": "Best",
+        "title_2": "Price Guarantee",
+        "description": "We work directly with hotels in Philippines, no intermediaries. Our direct agreements allow us to guarantee you the best price."
+      },
+      "reason_3": {
+        "title_1": "Rich",
+        "title_2": "Professional Knowledge",
+        "description": "Our agents live and breathe Philippines. They hold extensive knowledge from north to south and are happy to share it with you."
+      },
+      "reason_4": {
+        "title_1": "Personal",
+        "title_2": "Trip Planning",
+        "description": "We create a custom itinerary that matches your preferences with no agenda or commissions – just what's right for you to make the perfect trip."
+      },
+      "reason_5": {
+        "title_1": "Flexible",
+        "title_2": "Payment Plans",
+        "description": "Flexible and secure payment options to ease your vacation expenses, along with customer-friendly cancellation policies."
+      }
+    },
+    "planVacation": {
+      "title": "Not closed on all details",
+      "text_1": "Planning a vacation itinerary in Philippines, domestic flights and customization",
+      "text_2": "Hotels for the customer's character and budget",
+      "text_3": "Without payment or commitment in one click",
+      "btnTitle": "Plan a vacation"
+    },
+    "recommendation": {
+      "title": "They Recommend Dream Tours",
+      "btnTitle": "All recommendations",
+      "feedback_1": {
+        "name": "Michal Meshel",
+        "text": "Hot recommendation ❤️ Huge thanks to the amazing Dream Tours team who organized a perfect honeymoon for my husband and me in record time. The biggest thank you goes to the incredible Amir, who was available 24/7, advised us, was flexible, and took care of every small detail that made this trip so perfect. Amir – you're a gem, truly irreplaceable!!! And of course, thanks to the wonderful Sapir who helped us book tours and attractions. Just a royal team of princes and princesses!"
+      },
+      "feedback_2": {
+        "name": "Sharon Davidi",
+        "text": "Insane recommendation for Elon the champ. Personal attention and availability from the first call. He planned our complex family trip perfectly, with luxury hotels and a fully customized itinerary."
+      },
+      "feedback_3": {
+        "name": "Danit Segev",
+        "text": "Warm recommendation for Dream Tours and especially Dvir the superstar! Dvir planned us a dreamy three-week family vacation. He nailed all our requests and dreams. Throughout the entire process, he was professional, attentive, available, and caring with endless patience."
+      }
+    },
+    "magazine": {
+      "title": "Dream Tours Magazine",
+      "subtitle": "The Complete Guide to Philippines Vacation",
+      "btnTitle": "To the full magazine"
+    },
+    "articles": {
+      "article_1": {
+        "title": "Amanpuri Siargao – A Luxury Vacation for Families and Couples in Philippines",
+        "text": "Amanpuri Siargao is one of the most luxurious and famous resorts in Philippines. It combines uncompromising luxury with authentic Filipino vibes. It's the perfect destination for families wanting to pamper their kids with a dreamy vacation or couples seeking a romantic five-star getaway (or even more). As one of the most expensive resorts in Philippines, Amanpuri Siargao attracts the global elite.",
+        "date": "May 26, 2025"
+      },
+      "article_2": {
+        "title": "Philippines with Kids – The Complete Guide to a Perfect Family Summer Vacation",
+        "text": "Before you sign up for another tiring summer with camps, screens, and 'what are we doing today?', take a moment and imagine something completely different: white beaches, jungles, water buffalo, kayaks, night safaris, and hotels with dream kids' clubs — all in the most relaxing, luxurious, and pampering atmosphere. Philippines with",
+        "date": "May 20, 2025"
+      },
+      "article_3": {
+        "title": "5 Manila Markets You Must Not Miss!",
+        "text": "Markets in Manila that offer a unique experience: Before you run to another massage or settle for an air-conditioned mall, listen up. If you made it all the way to Manila and didn't spend at least one evening in one of these markets — you really missed out. These aren't just more of the same...",
+        "date": "May 19, 2025"
+      }
+    },
+    "hotels": {
+      "title": "Recommended Hotels",
+      "btnTitle": "For all hotels",
+      "hotel_1": {
+        "title": "Lagen Island Resort"
+      },
+      "hotel_2": {
+        "title": "El Nido Resorts"
+      },
+      "hotel_3": {
+        "title": "Shangri‑La Boracay"
+      },
+      "hotel_4": {
+        "title": "Amanpulo"
+      }
+    },
+    "partners": {
+      "title": "Our Partners"
+    },
+    "feedback": {
+      "title": "Customer Testimonials",
+      "btnTitle": "All recommendations",
+      "text_1": "We're still recovering, but we wanted to thank Michael from Dream Tours Philippines for an amazing trip. Thank you for high-standard hotels — we were really worried about that. I almost never book anything through someone I don't know, especially from overseas. Thanks for the warm and courteous service.",
+      "text_2": "Huge thanks to Roy from Dream Tours Philippines, who planned a perfect trip for us! He booked domestic flights and amazing 5-star hotels! Everything was organized perfectly, and even from Philippines he helped us with any questions. Thanks, Roy!",
+      "text_3": "Thank you Eyal for all the great advice and guidance you gave us for the Philippines trip. You were always available, kind, and attentive. You didn't push anything. You just tailored the trip together with us (tours, flights, and of course hotels). Thank you so much. Highly recommended ★★★★★",
+      "text_4": "I want to share about the special service from Gal at Dream Tours Philippines. Gal accompanied us professionally, kindly, and patiently. The hotels were high standard and to our satisfaction. The support didn't end at the hotel booking — even during the vacation Gal stayed in touch with us.",
+      "text_5": "Dream Tours Philippines played a big role in the success of our trip. From building the itinerary and choosing hotels and activities suitable for our family, to unbeatable prices we didn't find anywhere else — and ongoing support including recommendations and adjusting activities due to weather changes. Special thanks to Elon Franco, our agent, who made it all perfect. Highly recommended!!!!",
+      "text_6": "Hot recommendation ❤️\nHuge thanks to the amazing Dream Tours team who organized from scratch and in the shortest time the perfect honeymoon for my husband and me 😍\nSpecial thanks to the wonderful Amir who was available 24/7, advised us, was flexible, and mainly took care of every little detail of our trip which made it so perfect.\nAmir – you are a treasure, simply the best!!!\nAnd of course, thanks to the wonderful Sapir who helped us book tours and attractions.\nJust a team of princes and princesses 😍",
+      "text_7": "Huge thanks to the amazing Dvir, who built us the vacation of our dreams and gave us professional and heartfelt service! He was attentive to our family's needs, booked us the most amazing hotels and the best attractions. Unmatched! We enjoyed every moment – big thanks again!! Can't wait to return ❤️",
+      "text_8": "Second Passover in a row on the islands and in Manila, two families, ten adults — perfect fun. All arrangements, hotels, tours, and trips coordinated with Philip, who made this another amazing vacation!!! Top-class hotels that fully met our expectations. Highly recommended!!! Consult with Philip before making any decisions and you won't be disappointed.",
+      "text_9": "We just returned, two couples from a dreamy vacation in Philippines, and now that we're back to routine, I have to recommend Dream Tours Philippines. Amir, a true professional...",
+      "text_10": "Where do I even begin? After the most perfect honeymoon we could have asked for in Philippines, the first thank you goes to Stav from Dream Tours Philippines. From the first phone call, we knew we were in good hands. We booked everything two weeks before the flight, and Stav immediately gave us a sense of calm. He listened carefully and understood exactly what we were looking for. He was with us every step of the way and, without a doubt, always helped whenever we needed him—at any hour! A huge thank you to you, Stav, and thank you to Dream Tours Philippines. Thank you for a perfect experience!",
+      "text_11": "About 10 months ago, our daughter booked a honeymoon trip to Philippines (September 2022) through Dream Tours Philippines. She was so impressed by the service and helpful advice that she suggested we also use them. We travel quite a bit around the world, and this isn't our first time in Philippines, but this time was our 30th wedding anniversary, and I wanted it to be special. I contacted Dream Tours Philippines, and we booked the most amazing hotels. With their help, we also chose places that we knew would suit us better (for example, Intercontinental Siargao... an amazing hotel! And they got us an unbeatable price). The service continued even while we were in Philippines, which is very convenient and important—having someone available to guide you and help avoid painful mistakes. So thank you to the entire team at Dream Tours Philippines (really not something to take for granted).",
+      "text_12": "I reached out to Dream Tours Philippines based on Facebook recommendations. We took a chance and it was a huge success. Thanks to Liel, who planned the itinerary for us, to Ofek, and especially to Sapir, who always answered, was attentive, and was always available for us. The hotels were stunning, the cars were always waiting for us on time, and the tours we booked met all our expectations. Thank you very much for a wonderful and experience-filled trip.",
+      "text_13": "I want to recommend Lior from Dream Tours Philippines, who accompanied us every step of the way after excellent organization, including amazing hotels. What patience and excellent guidance—we always knew exactly who to talk to. He was always available. We had a wonderful time thanks to you, Lior. Great job! — Menahe and Yankele Avraham."
+    },
+    "contacts": {
+      "phoneFromThai": "Call from Philippines:",
+      "phoneFromIsrael": "Call from Israel:",
+      "whatsappContact": "Click here to send a WhatsApp message",
+      "followUs": "Follow us"
+    },
+    "modal": {
+      "nameLabel": "Name",
+      "phoneLabel": "Name",
+      "btnTitle": "Submit"
+    }
+  },
+  "contactUs": {
+    "title": "Contact Us",
+    "form": {
+      "firstName": {
+        "label": "First Name",
+        "placeholder": "First Name"
+      },
+      "lastName": {
+        "label": "Last Name",
+        "placeholder": "Last Name"
+      },
+      "phone": {
+        "label": "Phone"
+      },
+      "mobileCarrier": {
+        "label": "Mobile Carrier"
+      },
+      "countryCode": {
+        "label": "Country Code"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "Email"
+      },
+      "ticket": {
+        "label": "Did you buy a flight ticket?",
+        "options": {
+          "yes": "Yes",
+          "no": "No",
+          "other": "Other"
+        }
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "(number of people, destinations, questions, etc.)"
+      },
+      "submit": "Contact Us"
+    },
+    "info": {
+      "title": "Save up to 30% on a vacation in Philippines",
+      "subtitle": "It's important for us that you know that you've found the right place in all related to a vacation in Philippines and we're happy to be at your service at any time.",
+      "text": "The information we provide you through us is flowing and up-to-date at all times, as we work, live and travel in Philippines. We receive feedback from the ground at all times, along with customer feedback from those who have just returned from the hotels in which they were in Philippines, and of course from the tour operators themselves.",
+      "phoneLabel": "Phone for calls from Israel:",
+      "whatsAppLabel": "In addition, you can also use our WhatsApp business: <link>click here</link>, or by scanning the QR code below.",
+      "disclosureTitle": "Dream Tours Philippines - Business Hours:"
+    },
+    "timetable": {
+      "sunThu": "Sun-Thu",
+      "fri": "Fri",
+      "sun": "Sun",
+      "monThu": "Mon-Thu",
+      "timezoneIsrael": "Israel Time",
+      "timezoneThailand": "Philippines Time",
+      "fromTo": "From {start} to {end}",
+      "note": "<bold>Note:</bold> We are not active on Saturdays and Jewish holidays."
+    },
+    "advantages": {
+      "title_1": "Flexible cancellation policy",
+      "title_2": "Payment plans",
+      "title_3": "Best price guarantee",
+      "title_4": "Satisfied customers"
+    }
+  },
+  "destinations": {
+    "title": "Destinations in Philippines",
+    "text_1": "If you too dream at night about coconut shakes and endless beaches, you're dreaming of Philippines. Stop dreaming and join us on a fascinating journey through the Republic of Philippines.",
+    "text_2": "Philippines is one of the most popular destinations in the world and a favorite among Israeli travelers. The island nation, or 'Pearl of the Orient Seas,' has long become the capital of global tourism. Luxurious hotels at all levels and prices, exotic beaches, attractions for the whole family, and a fascinating culture that will take you on a journey through time are just a small part of what Philippines has to offer.",
+    "key_facts": {
+      "item_1": {
+        "title": "Manila",
+        "description": "Capital City"
+      },
+      "item_2": {
+        "title": "Peso",
+        "description": "Currency"
+      },
+      "item_3": {
+        "title": "Tagalog",
+        "description": "Language"
+      }
+    },
+    "important_facts": {
+      "title": "Philippines – Good to Know",
+      "fact_1": {
+        "title": "Philippines has a tropical climate, with an average temperature of 34°C accompanying you throughout your trip."
+      },
+      "fact_2": {
+        "title": "There is no need to obtain a visa for a <link>vacation in Philippines</link>. Upon arrival at the airport with an Israeli passport, you will automatically receive a visa for a 30-day stay in the republic."
+      },
+      "fact_3": {
+        "title": "The Republic of Philippines is home to around 110 million people, 80% of whom are Catholics. Catholicism is the main religion in Philippines, which has about 35,000 churches!"
+      },
+      "didYouKnow": {
+        "title": "Did you know?",
+        "fact": "In 2024, 35 million tourists visited Philippines — 270,000 of them came from Israel."
+      }
+    },
+    "resorts": {
+      "title": "Philippines for Travelers",
+      "description": "Philippines for travelers opens up endless destinations for you. You can start your vacation in the tropical and fascinating north, choosing between places like Banaue, <siargao>Siargao</siargao>, or El Nido. After that, <link>Southern Philippines</link> is the recommended choice — relax on one of the tourist islands like Boracay or Siargao, or go for more advanced destinations like Palawan and Bohol. We'll save the end of the trip for Central Philippines — shopping in Manila or maybe a weekend in the resort towns of Boracay.",
+      "listTitle": "We've laid out the full list of Destinations in Philippines — all that's left is for you to choose.",
+      "list": {
+        "siargao": {
+          "title": "Siargao",
+          "keyInfo": {
+            "location": "Location: Northeast Philippines, on the Pacific Ocean.",
+            "neighbours": "Neighboring destinations: Boracay, El Nido, Bohol, Palawan, Cebu, Mindanao, Luzon."
+          },
+          "touristInfo": {
+            "title": "Siargao Travel Information",
+            "text": {
+              "p1": "Welcome to Siargao – one of the most beautiful and popular islands in the Philippines. The island is famous for its world-class surfing, crystal-clear waters, stunning lagoons, and laid-back vibe. It is located in the northeastern part of Mindanao in the Philippines, along the Pacific Ocean. Siargao is accessible by plane from Manila or Cebu, and you can easily continue on to destinations like Boracay, Palawan, Bohol, and many other islands around the Philippines.",
+              "p2": "Despite being a relatively small island, getting around Siargao is simple and fun. The main way to explore is by renting a scooter or hopping on a tricycle. The roads are generally good and connect the main surf spots, beaches, and lively local areas where you’ll find everything you need – restaurants, bars, surf shops, and island tour operators.",
+              "p3": "Sayak Airport (Siargao Domestic Airport) is the main gateway to the island, handling daily domestic flights mainly from Manila and Cebu. The island attracts surfers, families, backpackers, and couples alike, offering a mix of adventure and relaxation. Its unique geography features incredible surf breaks, island hopping, lagoons, caves, and natural pools, making it a paradise for nature lovers and adventure seekers.",
+              "p4": "To truly enjoy Siargao and experience its many hidden gems, it’s recommended to stay for at least five to seven days. Many visitors split their stay between General Luna – the main tourist hub and surfing center – and quieter areas like Pacifico or secluded beach resorts. It’s important to know where to stay and what to explore – that’s exactly why we’re here. Before diving deeper into this magical island, one thing to remember: Siargao is much more than just Cloud 9 – the famous surf break. The island is full of amazing beaches, islands, waterfalls, and friendly local villages. We’ll guide you through everything you need to know."
+            },
+            "nutshellFacts": {
+              "title": "Siargao in a Nutshell:",
+              "items": [
+                {
+                  "title": "The Philippines' surfing capital and island paradise!",
+                  "text": "Siargao, one of the most beloved islands in the Philippines, is a dream destination for travelers seeking magical beaches, vibrant local culture, and a laid-back island vibe. On the island, you can enjoy world-class surfing, island hopping, lagoons, caves, and stunning natural scenery. Whether you’re looking for a relaxed beach vacation or exciting adventures, Siargao is the perfect place."
+                },
+                {
+                  "title": "Famous surf breaks and hidden gems:",
+                  "text": "Siargao is home to Cloud 9, one of the world’s most famous surf spots, attracting surfers from all over the globe. Beyond surfing, you’ll find pristine beaches like Doot Beach, Pacifico Beach, and hidden gems like Secret Beach or secluded coves and tidal pools that feel untouched by crowds."
+                },
+                {
+                  "title": "Adventures and nature for everyone:",
+                  "text": "Siargao offers more than just beaches. Swim in the clear blue waters of Sugba Lagoon, take a day trip island hopping to Naked Island, Daku Island, and Guyam Island, or visit Magpupungko Rock Pools. Nature lovers can explore lush coconut groves, waterfalls, and caves."
+                },
+                {
+                  "title": "Relaxed nightlife and island vibes:",
+                  "text": "Siargao’s nightlife is relaxed but lively, centered mostly in General Luna. Enjoy beachfront bars, live music, and casual parties under the palm trees. Don’t miss local spots with acoustic nights or laid-back island cocktails."
+                },
+                {
+                  "title": "When is the best time to visit Siargao?",
+                  "text": "The best time to visit Siargao is from March to October for the best surfing waves, while March to May offers calmer seas for island hopping. Even during the rainy season (November to February), the island maintains its charm with fewer tourists and lush green scenery."
+                },
+                {
+                  "title": "How to get to Siargao?",
+                  "text": "The easiest way to reach Siargao is by direct flight from Manila or Cebu to Sayak Airport (Siargao Airport). From the airport, it’s easy to reach General Luna and other areas by van, motorbike, or tricycle."
+                }
+              ]
+            }
+          },
+          "flightsInfo": {
+            "title": "Flights to Siargao, Philippines",
+            "text": "Siargao’s domestic airport <bold>(IAO)</bold>, also known as Sayak Airport, is located in the north of the island. Domestic flights from major cities in the Philippines—like Manila, Cebu, and Clark—land here daily, making it easy and affordable to reach Siargao from anywhere in the country. Local airlines that fly to Siargao include Philippine Airlines, Cebu Pacific, and Sunlight Air.<br></br>There are currently no direct international flights to Siargao, so travelers from Israel or other countries usually fly to Manila or Cebu first. From there, it’s just a short domestic flight to the island. Major airlines like Emirates, Etihad, and Turkish Airlines fly to Manila or Cebu from many global destinations."
+          },
+          "weatherInfo": {
+            "title": "Siargao Weather Throughout the Year",
+            "items": [
+              {
+                "title": "Siargao Weather – When Is the Best Time to Visit?",
+                "text": "Siargao, one of the most popular destinations in the Philippines, enjoys tropical weather year-round. The island’s climate is generally divided into two main seasons: the dry season and the wet season. Knowing what to expect will help you plan the perfect trip."
+              },
+              {
+                "title": "The Dry Season (March to October)",
+                "text": "The dry season is considered the best time to visit Siargao, especially for surfing and beach activities. Expect temperatures between 25–32°C, sunny days, and clear skies. Peak surf season is September to November, but conditions are good throughout the dry months. This is the ideal time for island hopping, beach days, and exploring Siargao’s lagoons and rock pools."
+              },
+              {
+                "title": "The Wet Season (November to February)",
+                "text": "The wet season brings more frequent rain showers, especially in November and December, but temperatures stay warm at 24–30°C. Showers are often short and refreshing, and the island is lush and green during these months. If you don’t mind some rain, this season has fewer tourists, lower prices, and a more peaceful vibe."
+              },
+              {
+                "title": "Summary",
+                "text": "Siargao has a warm tropical climate and is a year-round destination, but the dry months from March to October are the most popular. Whether you’re coming for world-class surf, beautiful beaches, or a laid-back island atmosphere—Siargao has something special in every season."
+              }
+            ]
+          },
+          "recommendedBeaches": {
+            "title": "Recommended Beaches in Siargao",
+            "info": "Siargao is home to a few must-visit beaches and islands. Some are famous for surfing, others for relaxing in clear waters or enjoying the island-hopping vibe.",
+            "items": {
+              "cloud9": {
+                "title": "Cloud 9 Beach",
+                "description": "The island’s surf capital and the most famous spot in Siargao. Come here for iconic waves, the boardwalk, surf lessons, and lively cafes."
+              },
+              "general_luna": {
+                "title": "General Luna Beach",
+                "description": "The main tourist area with a long beach, resorts, beach bars, and easy access to island hopping. Perfect base for exploring."
+              },
+              "malinao": {
+                "title": "Malinao Beach",
+                "description": "A quieter stretch near General Luna. Calm clear water, soft sand, and boutique resorts — ideal for a peaceful swim or sunset."
+              },
+              "daku": {
+                "title": "Daku Island",
+                "description": "A classic stop on island-hopping tours. Famous for its wide sandy beach, fresh coconuts, and picnic huts. Great swimming spot."
+              },
+              "pacifico": {
+                "title": "Pacifico Beach",
+                "description": "A beautiful surf beach up north. Less crowded, with long waves for experienced surfers and an off-the-beaten-path vibe."
+              }
+            }
+          },
+          "carRental": {
+            "title": "Siargao Transportation Info",
+            "text": "Getting around Siargao is easy and part of the adventure. The island is not very big, so most travelers choose to rent a scooter to reach beaches, surf spots, and restaurants easily. Scooters are affordable and widely available, but always wear a helmet and drive carefully. If you prefer not to ride a scooter, you can hire a local tricycle, rent a car, or book private van transfers for longer trips. Always make sure you have a valid international driver's license if you plan to drive yourself, and full insurance is recommended for peace of mind."
+          },
+          "whatToDo": {
+            "title": "What to Do in Siargao?",
+            "description": "Siargao may be small, but it’s packed with beautiful places and fun activities for nature lovers, surfers, and adventure seekers alike. Here are some must-do experiences during your stay.",
+            "items": {
+              "cloud_9": {
+                "title": "Surf at Cloud 9",
+                "description": "Cloud 9 is the most famous surf spot in the Philippines and the heart of Siargao’s surf scene. Watch the pros from the iconic boardwalk, or rent a board and take a lesson — the waves here are perfect for beginners and advanced surfers alike."
+              },
+              "island_hopping": {
+                "title": "Island Hopping",
+                "description": "Take a boat trip to nearby tropical gems like Naked Island, Daku Island, and Guyam Island. Spend the day swimming in clear water, eating fresh seafood, and relaxing under the sun."
+              },
+              "maasin_river": {
+                "title": "Maasin River & Bent Palm Tree",
+                "description": "Visit the iconic bent palm tree over Maasin River, where you can swing into the water like a local. It’s a fun stop and a great photo spot on your island road trip."
+              },
+              "sunset_chill": {
+                "title": "Sunset at Cloud 9 Pier",
+                "description": "End your day watching the sunset from the famous Cloud 9 boardwalk. Grab a cold drink at a nearby beachfront bar and enjoy the laid-back island vibe."
+              }
+            }
+          },
+          "attractions": {
+            "title": "Recommended Attractions in Siargao",
+            "items": {
+              "sugba_lagoon": {
+                "title": "Sugba Lagoon",
+                "paragraphs": [
+                  "One of Siargao’s top natural attractions. Jump off the diving boards, paddle a kayak or SUP, and swim in the stunning turquoise lagoon surrounded by mangroves and limestone hills."
+                ]
+              },
+              "magpupungko_pools": {
+                "title": "Magpupungko Rock Pools",
+                "paragraphs": [
+                  "These natural tidal pools appear during low tide. Swim in crystal-clear waters and climb the rock formations for a perfect island adventure. Check the tide times before you go!"
+                ]
+              },
+              "motorbike_exploring": {
+                "title": "Explore by Scooter",
+                "paragraphs": [
+                  "Rent a scooter and ride around the island to hidden beaches, local villages, and palm tree-lined roads. Stop at small cafes and roadside stalls for fresh coconuts or halo-halo."
+                ]
+              }
+            }
+          },
+          "nightlife": {
+            "title": "Siargao Nightlife",
+            "description": "Siargao’s nightlife is laid-back but lively, with beach bars, live music, and island parties that capture the surf-town vibe. Expect bonfires, reggae tunes, and meeting travelers from all over the world.",
+            "items": [
+              {
+                "title": "RumBar",
+                "description": "One of the island’s most popular party spots. Live DJs, cheap cocktails, and a fun crowd make it the go-to bar for late-night dancing."
+              },
+              {
+                "title": "Loose Keys",
+                "description": "A cozy bar with surf vibes, known for its live acoustic nights and relaxed atmosphere. Great place to pre-game or chill with locals and expats."
+              },
+              {
+                "title": "Bravo Beach Bar",
+                "description": "A beachfront restaurant and bar where you can enjoy cocktails at sunset that often turn into fun social nights with DJ sets or beach bonfires."
+              },
+              {
+                "title": "Happiness Hostel Parties",
+                "description": "Famous for organizing hostel parties with beer pong, DJs, and games. A good place to meet other travelers and keep the island party rolling."
+              }
+            ]
+          },
+          "recommendedHotels": {
+            "title": "Recommended Siargao Hotels",
+            "description": "Siargao offers a variety of accommodations for every budget and travel style, from beachfront resorts to cozy boutique stays.",
+            "btnTitle": "Details and Booking",
+            "groups": {
+              "family": {
+                "title": "Recommended hotels for a family vacation in Siargao",
+                "items": {
+                  "kermit_resort": {
+                    "title": "Kermit Siargao",
+                    "description": "A family-friendly resort with comfortable rooms and a relaxing atmosphere, close to General Luna’s main attractions."
+                  },
+                  "siargao_bliss_resort": {
+                    "title": "Siargao Bliss Resort",
+                    "description": "A beachfront resort offering spacious family rooms and easy access to white sand beaches and local dining."
+                  },
+                  "harana_surf_resort": {
+                    "title": "Harana Surf Resort",
+                    "description": "Perfect for families who enjoy a laid-back vibe, with a pool and proximity to surfing spots and nature."
+                  },
+                  "nuestra_playa": {
+                    "title": "Nuestra Playa",
+                    "description": "A cozy resort with a friendly atmosphere, perfect for families wanting beachfront access and easy island exploration."
+                  }
+                }
+              },
+              "honeymoon": {
+                "title": "Recommended hotels for a honeymoon in Siargao",
+                "items": {
+                  "island_haze_villas": {
+                    "title": "Island Haze Villas",
+                    "description": "Secluded villas with private pools, perfect for couples looking for privacy and luxury surrounded by nature."
+                  },
+                  "siargao_pearl": {
+                    "title": "Siargao Pearl",
+                    "description": "A romantic beachfront resort with beautiful sunsets and intimate dining options for honeymooners."
+                  },
+                  "calicoan_cove": {
+                    "title": "Calicoan Cove Resort",
+                    "description": "An adults-only resort offering peaceful ocean views and cozy accommodations for couples."
+                  },
+                  "siargao_bay_beach_club": {
+                    "title": "Siargao Bay Beach Club",
+                    "description": "A stylish beachfront boutique hotel with a serene vibe, ideal for couples looking to unwind and reconnect."
+                  }
+                }
+              }
+            }
+          },
+          "vacationWithChildren": {
+            "title": "Siargao with Children",
+            "paragraphs": [
+              "Siargao is not only for surfers and backpackers — families with children will love its laid-back atmosphere, friendly locals, and safe beaches. Many resorts offer spacious family villas and kids’ activities right by the ocean.",
+              "The most popular area for families is General Luna, where you’ll find calm beaches, easy access to island tours, and plenty of family-friendly cafes and restaurants. Staying near Cloud 9 or Malinao Beach is great for a quiet, safe environment.",
+              "Activities like island hopping, exploring tidal pools, and visiting Sugba Lagoon are fun for kids of all ages. Many hotels can help arrange family-friendly boat trips and nature tours that everyone will remember long after the vacation ends."
+            ]
+          },
+          "markets": {
+            "title": "Markets in Siargao",
+            "items": [
+              {
+                "title": "General Luna Night Market",
+                "description": "A lively market in the heart of General Luna, offering local food, souvenirs, and handmade crafts. It’s a great place to taste authentic Filipino street food and mingle with locals and travelers."
+              },
+              {
+                "title": "Dapa Public Market",
+                "description": "The island’s main market located in Dapa town, perfect for fresh seafood, fruits, and local produce. It’s the best spot to experience the daily life of Siargao locals."
+              },
+              {
+                "title": "Kawayan Market",
+                "description": "A smaller, community market near Kawayan village where you can find fresh tropical fruits, vegetables, and homemade snacks. Ideal for a quiet and authentic market visit."
+              }
+            ]
+          },
+          "chabadHouse": {
+            "title": "Siargao Chabad House",
+            "description": "Siargao’s Chabad House is located in General Luna, serving the Jewish community with a kosher kitchen, synagogue services, and welcoming Shabbat and holiday meals for travelers and locals alike."
+          },
+          "recommendedRestaurants": {
+            "title": "Recommended Restaurants in Siargao",
+            "description": "A great selection of places to enjoy delicious food while exploring Siargao.",
+            "items": [
+              {
+                "title": "Kermit Siargao",
+                "description": "Known for its delicious Italian dishes, fresh pasta, and lively atmosphere."
+              },
+              {
+                "title": "Shaka Siargao",
+                "description": "Healthy bowls, fresh smoothies, and refreshing juices in a relaxed setting."
+              },
+              {
+                "title": "Mama’s Grill",
+                "description": "Local Filipino barbecue and fresh seafood with a laid-back beach vibe."
+              },
+              {
+                "title": "Harana Surf Resort Restaurant",
+                "description": "Great spot for a mix of Filipino and international dishes, right near the surf spots."
+              },
+              {
+                "title": "Bravo Restaurant",
+                "description": "A fusion of Mediterranean and Asian flavors with a casual yet stylish setting."
+              },
+              {
+                "title": "La Carinderia",
+                "description": "Casual dining with excellent seafood and Filipino classics."
+              },
+              {
+                "title": "Kuyaw! Siargao",
+                "description": "Filipino comfort food and creative dishes served in a fun atmosphere."
+              },
+              {
+                "title": "The Pleasure Point",
+                "description": "Known for healthy options, vegan dishes, and great smoothies."
+              },
+              {
+                "title": "Coco Blanca",
+                "description": "Beachfront dining offering fresh seafood and tropical cocktails."
+              },
+              {
+                "title": "Harana Siargao",
+                "description": "Relaxed dining with a wide variety of dishes, perfect after a day of surfing."
+              }
+            ]
+          },
+          "spectacularViewRestaurants": {
+            "title": "Recommended Restaurants with Spectacular Views",
+            "description": "Here is a list of several recommended restaurants around the island with amazing scenery.",
+            "items": [
+              {
+                "title": "Pirate’s Cove",
+                "description": "A cliffside restaurant offering stunning ocean views and a relaxed atmosphere, perfect for sunset dining."
+              },
+              {
+                "title": "La Carinderia View Deck",
+                "description": "Enjoy authentic Filipino dishes with panoramic views of the nearby coastline."
+              },
+              {
+                "title": "Mahi-Mahi Siargao",
+                "description": "A beachfront spot known for fresh seafood and an open-air dining experience overlooking the sea."
+              },
+              {
+                "title": "Baricuda Siargao",
+                "description": "Set right on the beachfront, this restaurant pairs excellent seafood with beautiful water views."
+              },
+              {
+                "title": "Raffy’s Resort & Restaurant",
+                "description": "Dine with a view of the ocean and surrounding islets, offering a mix of Filipino and international cuisine."
+              },
+              {
+                "title": "Bravo Beach Resort Restaurant",
+                "description": "Offers a great sunset view alongside delicious Mediterranean and Filipino dishes."
+              }
+            ]
+          },
+          "faq": {
+            "title": "Siargao - What Did You Want to Know?",
+            "items": [
+              {
+                "question": "When is the best time to visit Siargao?",
+                "answer": "The best time to visit Siargao is from March to October, during the dry season and prime surfing months."
+              },
+              {
+                "question": "How long should I stay in Siargao?",
+                "answer": "A stay of 4 to 7 days is ideal to enjoy the island’s beaches, surfing, island hopping, and local culture."
+              },
+              {
+                "question": "What is the main town or area in Siargao?",
+                "answer": "General Luna is the main town known for its vibrant surf scene, restaurants, and nightlife."
+              },
+              {
+                "question": "Is Siargao family-friendly?",
+                "answer": "Yes, Siargao offers family-friendly activities like island tours, waterfalls, and safe beaches, making it great for travelers of all ages."
+              }
+            ]
+          },
+          "map": {
+            "title": "Siargao Map"
+          },
+          "moreInfo": {
+            "title": "Read More About Siargao",
+            "items": {
+              "thingsToDo": {
+                "title": "Things to Do in Siargao – Updated Guide for 2025",
+                "text": "Siargao Island is considered a must-visit in the Philippines thanks to its pristine beaches, turquoise lagoons, and world-class surfing. Here you’ll find recommendations for routes, attractions, and nearby islands.",
+                "date": "July 4, 2025"
+              },
+              "recommendedTours": {
+                "title": "Recommended Tours in Siargao – Beaches, Islands & Waterfalls",
+                "text": "Want to see Siargao like a local? We’ve gathered the most popular tours – island hopping, secret pools, and hidden waterfalls that reveal the island’s wild side.",
+                "date": "July 1, 2025"
+              },
+              "bestTimeToVisit": {
+                "title": "When to Visit Siargao – Weather & Seasons",
+                "text": "To fully enjoy Siargao, it’s important to know the seasons – when is surf season, when is it calmer, and how to avoid monsoons. All the tips in one guide.",
+                "date": "June 28, 2025"
+              },
+              "surfingGuide": {
+                "title": "Surfing Guide for Siargao – Cloud 9 and Nearby Beaches",
+                "text": "Siargao is known as the surfing capital of the Philippines. Whether you’re a beginner or advanced surfer – here’s everything you need to know about Cloud 9, recommended beaches, and local surf schools.",
+                "date": "July 2, 2025"
+              },
+              "whereToStay": {
+                "title": "Where to Stay in Siargao – Recommended Hotels & Bungalows",
+                "text": "The island offers a range of accommodation – from budget hostels to beachfront villas. We’ve gathered stylish and recommended stays in the best areas.",
+                "date": "June 30, 2025"
+              },
+              "nightlife": {
+                "title": "Nightlife in Siargao – Bars & Parties",
+                "text": "Siargao comes alive at night with lively bars, beach parties, and international DJs. All the spots you shouldn’t miss for a fun night on the island.",
+                "date": "July 3, 2025"
+              }
+            }
+          },
+          "summary": {
+            "title": "Siargao Summary",
+            "text": "Siargao is a magical and popular island in the Philippines that has gained popularity among Israeli travelers who continue to discover its beauty and charm. The island is famous for its pristine beaches, natural pools, and world-class surfing. We at Hof Rav highly recommend vacationing in Siargao – it’s a must-visit destination on any trip to the Philippines. A variety of attractions, island-hopping tours, charming hotels and bungalows, easy flights, and the option to combine nearby islands – these are just part of what Siargao has to offer. Remember – Siargao is not just Cloud 9. The island has many different beaches and areas, and we’re here to help you choose the perfect spot for you."
+          }
+        },
+        "boracay": {
+          "title": "Boracay"
+        },
+        "palawan": {
+          "title": "Palawan"
+        },
+        "cebu": {
+          "title": "Cebu"
+        },
+        "bohol": {
+          "title": "Bohol"
+        },
+        "tagaytay": {
+          "title": "Tagaytay"
+        },
+        "davao": {
+          "title": "Davao"
+        },
+        "batangas": {
+          "title": "Batangas"
+        },
+        "subic_bay": {
+          "title": "Subic Bay"
+        }
+      }
+    }
+  },
+  "hotels": {
+    "title": "Hotels in Philippines",
+    "homeLink": "Home",
+    "dropdown": {
+      "title": "Table of Contents",
+      "items": [
+        "Philippines - Get to know the hotels",
+        "Recommended hotels in Philippines",
+        "Hotels in Philippines - What you need to know",
+        "Hotels in Philippines - in a nutshell",
+        "The 10 best hotels in Philippines",
+        "Luxury hotels in Philippines",
+        "Recommended hotels in Philippines by region",
+        "Hotels in Philippines - Everything you wanted to know",
+        "More about hotels in Philippines...",
+        "How to choose a hotel in Philippines?"
+      ]
+    },
+    "getToKnow": {
+      "title": "Philippines - Get to know the hotels",
+      "article": "Planning a vacation in the Philippines and looking for hotels in the Philippines? That's exactly why we're here — to help you make the right choice. The Philippines offers a huge variety of hotels, and our representatives regularly travel from island to island and hotel to hotel throughout the Philippines to select the most suitable places that will make your vacation unforgettable, while guaranteeing the best prices. Choosing hotels in the Philippines is actually the second step in planning your trip after booking a flight ticket — but it’s the most important one, as the level, quality, and suitability of the hotel will ultimately determine how much you enjoy your stay. Whether you’re coming alone, as a couple, or with family, we know how to match you with the perfect hotel, within the right budget, and in the location that suits you best."
+    },
+    "recommendedHotels": {
+      "title": "Recommended hotels in the Philippines",
+      "article": "Here is a list of top destinations with recommended hotels in the Philippines. Feel free to browse and leave your details on the page of any hotel you like. After that, a representative from our team will reach out to you to filter options by type, budget, and your expectations. They will help match you with the ideal hotel in the Philippines. In the next step, we’ll choose a hotel together — down to the details of room types, location, view, and even bed configurations — all to find the best fit for your dream vacation in the Philippines."
+    },
+    "needToKnow": {
+      "title": "Hotels in the Philippines - What you need to know",
+      "article": "The Philippines is a tropical paradise and a rising star among the world’s top vacation destinations. Here you’ll find resorts of all styles and levels — beachfront bungalows for couples, family-friendly hotels with pools and slides, budget-friendly hostels for backpackers, hotels near the Chabad House for the traditionally observant, and luxury resorts for those who want the best of the best. Of course, in any hotel in the Philippines you’ll be greeted warmly, from the friendly local welcome to the hearty breakfasts and fresh tropical fruit by the pool.",
+      "explanation": "Remember — the Philippines has a vast range of hotels, and what works for one traveler may not work for you. There are 3 key things you should always consider:<br></br> Type of traveler — choose your hotel based on who’s coming. If you’re traveling with <a>children</a>, you probably don’t want to stay at a party hotel in Boracay.<br></br> Hotel location — The location matters a lot. Think about what suits you best: a hotel in a lively beach town, a hidden resort on a quiet island, or something in between. Budget — This one’s always tricky, because we all want to spoil ourselves and sometimes go over budget. It’s smart to set a general budget for accommodation and adjust it as you go — save in one place, splurge in another. Remember, a <a>vacation in the Philippines</a> is an experience you don’t have every day, so going a bit over budget — 10%-20% — is completely worth it for memories you’ll cherish.<br></br> Now that you know how to choose hotels in the Philippines, feel free to explore our destinations and pick the best hotels for your tropical getaway.",
+      "link": {
+        "children": "children",
+        "vocation": "vacation in the Philippines"
+      }
+    },
+    "nutshell": {
+      "title": "Hotels in the Philippines - in a nutshell",
+      "article": "In the Philippines, one of the most stunning and diverse island nations in Asia, you’ll find accommodation to fit every traveler and every budget. Whether you dream of a luxury stay in a five-star beachfront resort on a white-sand island, or a cozy and authentic guesthouse in a vibrant city, the Philippines has countless options to suit your style and make your vacation truly special."
+    },
+    "aboutHotels": {
+      "buttonText": {
+        "open": "Read more",
+        "close": "Read less"
+      },
+      "items": [
+        {
+          "hotel": "Luxury hotels in the Philippines",
+          "description": "The Philippines is famous for its stunning luxury hotels, usually found on idyllic islands like Palawan, Boracay, and Siargao. These hotels offer top-notch amenities such as world-class spas, infinity pools overlooking crystal-clear waters, fine dining restaurants, and personalized butler service. Luxury hotels in the Philippines deliver an unforgettable experience with modern design blended beautifully with the islands’ natural paradise."
+        },
+        {
+          "hotel": "Boutique hotels",
+          "description": "For travelers seeking a more authentic and intimate stay, boutique hotels in the Philippines are the perfect choice. Commonly found in places like Manila, Cebu, or the heritage city of Vigan, these hotels stand out for their unique style and warm, personalized service. Many are set in charming heritage buildings or nestled in lush tropical gardens, offering guests a cozy and memorable experience."
+        },
+        {
+          "hotel": "Family hotels",
+          "description": "Planning a family vacation? The Philippines has plenty of family-friendly hotels designed especially for parents and kids. Popular islands like Cebu, Bohol, and Boracay offer hotels with spacious family rooms, kids’ pools, children’s clubs, and fun entertainment for all ages. These hotels make it easy to relax and enjoy quality time together with activities for the whole family."
+        },
+        {
+          "hotel": "Budget hotels",
+          "description": "The Philippines is also a favorite destination for budget travelers and backpackers. In major cities like Manila, Cebu, and beach towns like El Nido or Moalboal, you’ll find plenty of affordable hotels, guesthouses, and hostels. Despite the low cost, many budget hotels offer clean, comfortable rooms and a friendly, welcoming atmosphere."
+        },
+        {
+          "hotel": "Hotels by the sea",
+          "description": "The Philippines is a paradise for beach lovers. If you dream of waking up to the sound of the ocean, choose one of the beautiful beachfront hotels on islands like Boracay, Palawan, or Siargao. These seaside hotels offer breathtaking views, direct beach access, and extra perks like sunrise yoga or paddleboarding adventures right from your doorstep."
+        },
+        {
+          "hotel": "Summary",
+          "description": "Choosing the right hotel in the Philippines can really shape your vacation experience. It’s worth picking the hotel that matches the vibe you’re looking for — and booking early to secure your spot in the perfect place. From luxury island resorts to charming boutique stays, the Philippines has accommodation options to turn every vacation into a dream escape."
+        }
+      ]
+    },
+    "bestHotels": {
+      "title": "The 10 best hotels in the Philippines",
+      "table": [
+        ["Hotel name", "Stars", "Where", "Type"],
+        ["Amanpulo", "5 stars", "Palawan", "Couples"],
+        ["Shangri-La Boracay", "5 stars", "Boracay", "Families and couples"],
+        ["El Nido Resorts Pangulasian Island", "5 stars", "Palawan", "Couples"],
+        ["Crimson Resort and Spa", "5 stars", "Mactan, Cebu", "Families and couples"],
+        ["The Lind Boracay", "5 stars", "Boracay", "Families and couples"],
+        ["Bohol Beach Club", "4 stars", "Bohol", "Families and couples"],
+        ["Nay Palad Hideaway", "5 stars", "Siargao", "Couples"],
+        ["Okada Manila", "5 stars", "Manila", "Couples"],
+        ["Discovery Shores", "5 stars", "Boracay", "Families and couples"],
+        ["Two Seasons Coron Island Resort", "4 stars", "Coron, Palawan", "Couples"]
+      ]
+    },
+    "contactForTheHotel": "We guarantee the best hotel prices in Philippines. To find the right hotel and check prices, feel free to contact us with one click on WhatsApp.",
+    "luxuryHotels": {
+      "title": "Luxury hotels in Philippines",
+      "article": "The Philippines is the perfect destination for those seeking a luxurious and unforgettable vacation experience.\nTop-tier hotels across the islands offer world-class service and indulgent pampering, all set against the backdrop of pristine beaches and lush tropical landscapes.\nLuxury resorts in the Philippines are known for their breathtaking architecture, blending contemporary design with native Filipino elements—creating a serene, island-paradise atmosphere that feels like heaven on earth."
+    },
+    "aboutLuxuryHotels": {
+      "buttonText": {
+        "open": "Read more",
+        "close": "Read less"
+      },
+      "items": [
+        {
+          "title": "Luxury hotels in the Philippines",
+          "description": "Luxury hotels in the Philippines offer custom-designed rooms and suites with advanced facilities such as private pools, panoramic balconies facing the sea or rainforest, and luxurious bathrooms with large, comfortable bathtubs. Many provide 24/7 personal butler service for a truly VIP experience, attending to every need and ensuring a unique and unforgettable stay."
+        },
+        {
+          "title": "Spa and wellness centers",
+          "description": "The Philippines is home to top-tier spa and wellness centers in its luxury hotels. Guests can enjoy traditional Filipino massages, holistic treatments, saunas, and jacuzzis with breathtaking views. Many hotels offer spa packages with daily treatments, yoga and meditation sessions, and personalized detox programs for ultimate relaxation and indulgence."
+        },
+        {
+          "title": "Gourmet restaurants",
+          "description": "Luxury hotels in the Philippines take pride in gourmet restaurants that serve both international cuisines and authentic Filipino dishes, led by world-class chefs. Dining becomes a culinary art form, using fresh, local ingredients. Some hotels even offer private beach dinners with custom menus and personal service."
+        },
+        {
+          "title": "Location and exclusivity",
+          "description": "Luxury hotels in the Philippines are often located in exclusive areas, far from tourist crowds, for a serene and private experience. Exotic islands like Palawan, Siargao, and Bohol feature private beach resorts, while the lush mountainous regions of Luzon offer secluded retreats with views of valleys and rivers. Additionally, luxury hotels in major cities like Manila and Cebu provide easy access to shopping, culture, and nightlife."
+        },
+        {
+          "title": "Price and value",
+          "description": "Despite the high level of service and amenities, luxury hotels in the Philippines offer highly attractive prices compared to other premium destinations around the world. For the price, you get a luxurious experience that’s hard to find elsewhere. The Philippines delivers great value for money, with exceptional service and indulgences that make guests feel like royalty."
+        },
+        {
+          "title": "Activities and leisure",
+          "description": "Luxury hotels in the Philippines offer a wide range of leisure activities, including yoga classes, water sports, guided tours, and Filipino cooking lessons. For those seeking adventure, options include scuba diving, private island-hopping cruises, or exploring natural parks and cultural heritage sites."
+        },
+        {
+          "title": "Summary",
+          "description": "Choosing a luxury hotel in the Philippines guarantees a dream vacation. These hotels offer magical and indulgent experiences with top-tier service — all at surprisingly affordable rates. If you're looking to enjoy the best the Philippines has to offer, luxury hotels provide the ultimate way to do it."
+        }
+      ]
+    },
+    "recommendedHotelsByRegion": {
+      "title": "Recommended hotels in the Philippines by region",
+      "regions": {
+        "northern": {
+          "title": "Hotels in Northern Philippines",
+          "resorts": {
+            "manila": "Hotels in Manila",
+            "tagaytay": "Hotels in Tagaytay",
+            "baguio": "Hotels in Baguio",
+            "subicbay": "Hotels in Subic Bay",
+            "batangas": "Hotels in Batangas"
+          }
+        },
+        "central": {
+          "title": "Hotels in Central Philippines",
+          "resorts": {
+            "cebu": "Hotels in Cebu",
+            "bohol": "Hotels in Bohol",
+            "boracay": "Hotels in Boracay",
+            "iloilo": "Hotels in Iloilo",
+            "dumaguete": "Hotels in Dumaguete",
+            "leyte": "Hotels in Leyte",
+            "samar": "Hotels in Samar"
+          }
+        },
+        "southern": {
+          "title": "Hotels in Southern Philippines",
+          "resorts": {
+            "davao": "Hotels in Davao",
+            "siargao": "Hotels in Siargao",
+            "camiguin": "Hotels in Camiguin",
+            "cagayandeoro": "Hotels in Cagayan de Oro",
+            "samal": "Hotels in Samal Island",
+            "zamboanga": "Hotels in Zamboanga"
+          }
+        }
+      }
+    },
+    "fagHotels": {
+      "faqTitle": "Hotels in the Philippines - Everything You Need to Know",
+      "faq": [
+        {
+          "q": "How should you book hotels in the Philippines?",
+          "a": "It is recommended to contact us and get recommendations for selected hotels with the best prices."
+        },
+        {
+          "q": "How far in advance should you book hotels in the Philippines?",
+          "a": "The earlier the better. You’ll also receive special prices and better rooms. Hotels in the Philippines tend to fill up months in advance."
+        },
+        {
+          "q": "Should you book all hotels before your trip to the Philippines?",
+          "a": "Yes, it is recommended to book everything in advance and arrive relaxed, instead of dealing with hotel bookings during your trip."
+        },
+        {
+          "q": "Are hotel safes in the Philippines secure?",
+          "a": "Mostly yes, especially in 5-star hotels from major international chains."
+        },
+        {
+          "q": "Is there kosher food in hotels in the Philippines?",
+          "a": "Hotels in the Philippines are not kosher by default, but you can usually find fresh fruits and vegetables and sometimes prepare food yourself."
+        }
+      ]
+    },
+    "moreAboutHotels": {
+      "philippinesHotelsMoreTitle": "עוד על מלונות בפיליפינים...",
+      "philippinesHotelsMoreText": "הפיליפינים הם יעד תיירותי פופולרי עם מגוון רחב של מלונות המתאימים להעדפות ותקציבים שונים. בין אם אתם מחפשים אתרי נופש יוקרתיים, מלונות בוטיק, מקומות לינה בתקציב נמוך או שהות ייחודית – הפיליפינים מציעים משהו לכל אחד. להלן סקירה כללית של סוגי המלונות שתוכלו למצוא בפיליפינים:",
+      "philippinesHotelsResorts": "אתרי נופש יוקרתיים: הפיליפינים ידועים בזכות אתרי הנופש המפוארים שלהם שמספקים שירותים ברמה עולמית, מיקומים מדהימים ושירות אישי. אזורים פופולריים כוללים את <a>פלאוון</a>, <a>בורקאי</a>, <a>בוהול</a> ו<a>סיארגאו</a>. אתרי נופש אלה מציעים לעיתים קרובות וילות פרטיות, בריכות, ספא ומסעדות יוקרה בקרבת חופים לבנים.",
+      "philippinesHotelsBoutique": "מלונות בוטיק: הפיליפינים מציעים מבחר מלונות בוטיק עם עיצובים ייחודיים ואווירה אישית. מלונות כאלה אפשר למצוא גם באיים מבודדים וגם בערים כמו <a>מנילה</a> או <a>סבו סיטי</a>.",
+      "philippinesHotelsBudget": "לינה בתקציב נמוך: מטיילים בתקציב מוגבל ימצאו שפע של אפשרויות כמו אכסניות, בתי הארחה ומלונות זולים – במיוחד באזורים של תרמילאים כמו <a>אל נידו</a> או <a>פורט בראטון</a>. מקומות אלו לרוב פשוטים אך נוחים ונקיים.",
+      "philippinesHotelsUnique": "שהות ייחודית: ניתן למצוא חוויות מיוחדות כמו בקתות על המים, מלונות בתוך יערות גשם או לינה בבתי עץ ליד חופים מבודדים – במיוחד באיים כמו <a>סיקіхור</a> או <a>קאמירין סור</a>.",
+      "philippinesHotelsChains": "רשתות בינלאומיות: בפיליפינים יש נוכחות רחבה לרשתות בינלאומיות כמו <a>Marriott</a>, <a>Hilton</a>, <a>InterContinental</a> ו<a>Seda</a> – בעיקר בערים ובאזורים מתויירים. מלונות אלה מציעים רמת שירות יציבה וסטנדרטים מוכרים.",
+      "philippinesHotelsAdvice": "ענף המלונאות בפיליפינים מגוון מאוד, ומומלץ לבחור מלון לפי מיקום, רמת שירותים, תקציב וחוות דעת. אתרי השוואת מחירים והמלצות יכולים לעזור – וגם תמיד אפשר לפנות אלינו לייעוץ אישי על פי ההעדפות שלכם."
+    }
+  },
+  "recommendations": {
+    "title": "Recommendations",
+    "subtitle": "All the recommendations on this page are from customers on the Facebook page and Google Business of Thai Tours.",
+    "text": {
+      "p1": "<highlight>This page is connected to Facebook and updates in real time.</highlight> Thai Tours is one of the only travel companies in the world that has a Facebook page with user reviews, with no option to filter or edit. Therefore, all the reviews you see here are 100% authentic.",
+      "p2": "More than 700 positive online reviews from satisfied customers!",
+      "p3": "The leading travel company in Thailand for Israelis"
+    },
+    "google": {
+      "title": "Excellent",
+      "caption": "Based on <bold>{number} reviews</bold>",
+      "items": [
+        {
+          "name": "נועה לוי",
+          "date": "2025 June 12",
+          "text": "A dream vacation in the Philippines! Everything was perfectly organized — the hotels, transfers, and tours. Thank you Dream Tours for an unforgettable experience! The beaches were clean and stunning, the local food was delicious and varied, and each day was perfectly planned so we could relax and admire the magical scenery. Highly recommended for anyone looking for a truly dreamy and pampering vacation."
+        },
+        {
+          "name": "דניאל כהן",
+          "date": "2025 May 28",
+          "text": "An amazing experience! The Dream Tours team took care of every little detail. Highly recommended!"
+        },
+        {
+          "name": "מאיה בן דוד",
+          "date": "2025 April 19",
+          "text": "The Philippines are magical and with Dream Tours it’s even better. Personal service and a diverse itinerary. Thank you very much!"
+        },
+        {
+          "name": "יוסי מזרחי",
+          "date": "2025 July 01",
+          "text": "We didn’t stop enjoying ourselves! From the magical island to the diving — everything was perfect. Thank you Dream Tours! The team was kind and available for any question or request, the hotels were of a very high standard and the scenery was breathtaking. In addition, the attractions included island hopping, snorkeling with colorful fish, and visits to local villages that added so much authenticity to the experience. I can’t wait to go back again!"
+        },
+        {
+          "name": "רוני שלום",
+          "date": "2025 June 05",
+          "text": "The trip exceeded expectations! Professional guides, amazing views, and excellent organization. Highly recommended with Dream Tours."
+        }
+      ]
+    },
+    "facebook": {
+      "title": "Excellent",
+      "caption": "Based on <bold>{number} reviews</bold>",
+      "items": [
+        {
+          "name": "איילת חן",
+          "date": "2025 July 10",
+          "text": "No words to describe the experience! The Dream Tours team organized a perfect trip for us in the Philippines. Everything ran like clockwork, from the hotels to the transfers. Highly recommended for anyone looking for a stress-free vacation."
+        },
+        {
+          "name": "עמית נוימן",
+          "date": "2025 June 18",
+          "text": "An unforgettable experience! The beaches, the islands, the guides — simply perfect. Thank you Dream Tours for wholehearted service."
+        },
+        {
+          "name": "גלית אשר",
+          "date": "2025 June 03",
+          "text": "We enjoyed every moment! Our first time in the Philippines and it was beyond expectations. The itinerary was interesting and diverse, and the team was always available and helpful. We will definitely recommend it to friends!"
+        },
+        {
+          "name": "רועי אביטל",
+          "date": "2025 May 22",
+          "text": "Dream Tours made our trip a perfect experience. Every small detail was handled and we felt in good hands the entire time. Thank you so much!"
+        },
+        {
+          "name": "ליאת הרפז",
+          "date": "2025 April 30",
+          "text": "The trip was perfectly organized from start to finish! Professional guides, breathtaking views and personal, pampering service. Thank you Dream Tours!"
+        }
+      ]
+    },
+    "form": {
+      "fullName": {
+        "label": "Full Name",
+        "placeholder": "For example: Israel Israeli"
+      },
+      "phone": {
+        "label": "Phone Number",
+        "placeholder": "For example: {phone}"
+      },
+      "email": {
+        "label": "Email Address",
+        "placeholder": "For example: {email}"
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "The content of the message or question you’d like to ask Thai Tours."
+      },
+      "submit": "Send",
+      "noAnswerTitle": "Didn't get an answer to your question?",
+      "sendMessageInfo": "Send us a message and we’ll get back to you within 48 hours.",
+      "whatsappInfo": "You can also reach us through our business WhatsApp: click here, or by scanning the QR code below on your mobile."
+    }
+  },
+  "attractions": {
+    "essentials": {
+      "title": "Attractions in the Philippines",
+      "text": "The Philippines, a beautiful island nation, offers a wide variety of recommended attractions for travelers. To enjoy the ultimate vacation in the Philippines, it’s worth including different activities and tours in your trip. In every tourist destination in the Philippines, you’ll find countless attractions and excursions for all interests. It’s recommended to book activities when you arrive at your destination — you can book through us, at your hotel lobby, or at any local travel agency where you’re staying."
+    },
+    "destinations": {
+      "title": "Attractions in the Philippines by Destination",
+      "list": {
+        "siargao": {
+          "title": "Attractions in Siargao"
+        },
+        "boracay": {
+          "title": "Attractions in Boracay"
+        },
+        "palawan": {
+          "title": "Attractions in Palawan"
+        },
+        "cebu": {
+          "title": "Attractions in Cebu"
+        },
+        "bohol": {
+          "title": "Attractions in Bohol"
+        },
+        "tagaytay": {
+          "title": "Attractions in Tagaytay"
+        }
+      }
+    },
+    "contactUs": {
+      "title": "We offer the best attractions in the Philippines. For details about your trip to the Philippines and checking prices, feel free to contact us with one click on WhatsApp."
+    }
+  }
+}
