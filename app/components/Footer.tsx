@@ -141,7 +141,7 @@ export const Footer = async () => {
   ];
 
   return (
-    <section className={clsx("relative", "bg-[rgb(46,40,130)]", "py-12")}>
+    <section className={clsx("relative", "bg-[rgb(46,40,130)]", "pt-12", "pb-20")}>
       <div
         className={clsx(
           "absolute",
@@ -171,8 +171,8 @@ export const Footer = async () => {
           </h4>
 
           <div className={clsx("flex", "gap-2")}>
-            {socialMedia.map(item => (
-              <SocialMediaLink key={item.link} icon={item.icon} link={item.link} />
+            {socialMedia.map((item, i) => (
+              <SocialMediaLink key={i} icon={item.icon} link={item.link} />
             ))}
           </div>
         </div>
@@ -201,24 +201,34 @@ const ContactBlock = ({ icon, el }: { icon: IconProp; el: ReactNode }) => (
   </div>
 );
 
-const SocialMediaLink = ({ icon }: { icon: ReactNode; link: string }) => (
-  // <a href={link} target="_blank" rel="noopener noreferrer">
-  <div
-    className={clsx(
-      "w-10",
-      "h-10",
-      "flex",
-      "justify-center",
-      "items-center",
-      "bg-primary",
-      "text-white",
-      "rounded-full"
-    )}
-  >
-    {icon}
-  </div>
-  // </a>
-);
+const SocialMediaLink = ({ icon, link }: { icon: ReactNode; link: string }) => {
+  const element = (
+    <div
+      className={clsx(
+        "w-10",
+        "h-10",
+        "flex",
+        "justify-center",
+        "items-center",
+        "bg-primary",
+        "text-white",
+        "rounded-full"
+      )}
+    >
+      {icon}
+    </div>
+  );
+
+  if (link) {
+    return (
+      <a href={link} target="_blank" rel="noopener noreferrer">
+        {element}
+      </a>
+    );
+  }
+
+  return element;
+};
 
 const FooterSection = ({
   items,

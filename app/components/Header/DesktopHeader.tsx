@@ -3,7 +3,10 @@ import Image from "next/image";
 import { useLocale, useTranslations } from "next-intl";
 import { HeaderButton } from "../ui/HeaderButton";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faFacebookSquare, faWhatsapp } from "@fortawesome/free-brands-svg-icons";
+import {
+  faFacebookSquare,
+  faWhatsapp,
+} from "@fortawesome/free-brands-svg-icons";
 import clsx from "clsx";
 import config from "../../config/config.json";
 import { LanguageSwitcher } from "../ui/LanguageSwitcher";
@@ -59,16 +62,16 @@ export const DesktopHeader = ({ navItems }: DesktopHeaderProps) => {
           "mt-2.5",
           locale === "he" ? "pr-16 pl-3" : "pl-16 p3-3"
         )}
-      >
-
-      </nav>
+      ></nav>
       <div className={clsx("flex", "items-center")}>
-        <HeaderButton className={clsx("w-[200px]", "bg-primary")} href={`tel:${config.phone}`}>
+        <HeaderButton
+          className={clsx("w-[200px]", "bg-primary")}
+          href={`tel:${config.phone}`}
+        >
           <span>{t("phone")}</span>
           <span>{config.phone}</span>
         </HeaderButton>
         <NextSectionButton>
-
           <HeaderButton
             className={clsx("w-[84px]", "bg-secondary", "cursor-pointer")}
           >
@@ -77,21 +80,29 @@ export const DesktopHeader = ({ navItems }: DesktopHeaderProps) => {
         </NextSectionButton>
 
         <div className={clsx("flex", "items-center", "gap-5", "px-5")}>
-          {/* <a
+          <a
             href={config.fb}
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Facebook"
-          > */}
-          <FontAwesomeIcon icon={faFacebookSquare} className={clsx("text-blue-600")} size="2xl" />
-          {/* </a> */}
+          >
+            <FontAwesomeIcon
+              icon={faFacebookSquare}
+              className={clsx("text-blue-600")}
+              size="2xl"
+            />
+          </a>
           <a
             href={`https://api.whatsapp.com/send?phone=${config.phoneWhatsApp}`}
             target="_blank"
             rel="noopener noreferrer"
             aria-label="whatsapp"
           >
-            <FontAwesomeIcon icon={faWhatsapp} className={clsx("text-green-500")} size="2xl" />
+            <FontAwesomeIcon
+              icon={faWhatsapp}
+              className={clsx("text-green-500")}
+              size="2xl"
+            />
           </a>
           {/* <LanguageSwitcher /> */}
         </div>
