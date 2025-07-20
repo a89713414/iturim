@@ -78,7 +78,7 @@ export const ContactUs = () => {
                       name="prefix"
                       value={formData.prefix}
                       onChange={handleChange}
-                      style={{ direction: 'rtl', textAlign: 'center' }}
+                      style={{ direction: 'rtl', paddingInlineStart: "40px"}}
                       required
                     >
                       <option value="">בחר קידומת</option>
@@ -93,7 +93,7 @@ export const ContactUs = () => {
                       name="mobileCompany"
                       value={formData.mobileCompany}
                       onChange={handleChange}
-                      style={{ direction: 'rtl', textAlign: 'center' }}
+                      style={{ direction: 'rtl', paddingInlineStart: "40px"}}
                       required
                     >
                       <option value="">בחר חברה</option>
