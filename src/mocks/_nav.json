@@ -1,0 +1,79 @@
+[
+  {
+    "component": "CNavItem",
+    "name": {
+      "en": "Home",
+      "he": "בית"
+    },
+    "to": "/home",
+    "icon": "cilHome"
+  },
+  {
+    "component": "CNavTitle",
+    "name": {
+      "en": "Our Services",
+      "he": "השירותים שלנו"
+    }
+  },
+  {
+    "component": "CNavItem",
+    "name": {
+      "en": "medical_rights",
+      "he": "זכויות רפואיות"
+    },
+    "to": "/medical_rights",
+    "icon": "cilHospital"
+  },
+  {
+    "component": "CNavItem",
+    "name": {
+      "en": "insurances",
+      "he": "ביטוחים"
+    },
+    "to": "/insurances",
+    "icon": "cilShieldAlt"
+  },
+  {
+    "component": "CNavItem",
+    "name": {
+      "en": "tax-refund",
+      "he": "החזרי מס"
+    },
+    "to": "/tax-refund",
+    "icon": "cilDollar"
+  },
+  {
+    "component": "CNavItem",
+    "name": {
+      "en": "funds_from_pensia",
+      "he": "משיכות כספים"
+    },
+    "to": "/funds_from_pensia",
+    "icon": "cilBank",
+    "badge": {
+      "color": "info",
+      "text": {
+        "en": "NEW",
+        "he": "חדש"
+      }
+    }
+  },
+  {
+    "component": "CNavItem",
+    "name": {
+      "en": "about-us",
+      "he": "מי אנחנו"
+    },
+    "to": "/about-us",
+    "icon": "cilInfo"
+  },
+  {
+    "component": "CNavItem",
+    "name": {
+      "en": "contact-us",
+      "he": "צור קשר"
+    },
+    "to": "/contact-us",
+    "icon": "cilContact"
+  }
+]
