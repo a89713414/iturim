@@ -42,7 +42,7 @@ const AppHeader = ({ routes, texts, language }) => {
 
         <CListGroup className="d-flex flex-column flex-lg-row">
           <CListGroupItem className="border-0">
-            <a href="tel:%0555076614" className="d-flex align-items-center">
+            <a href="tel:+972555076614" className="d-flex align-items-center">
               <CIcon icon={cilPhone} size="lg" className="me-2" />
               055-5076614
             </a>

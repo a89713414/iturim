@@ -46,7 +46,7 @@ const AppFooter = ({ texts }) => {
             <div className="contact-info mb-3">
               <div className="contact-item">
                 <CIcon icon={cilPhone} className="me-2" />
-                <a href="tel:%0555076614">
+                <a href="tel:+972555076614">
 
                   <span>055-5076614</span>
                 </a>
