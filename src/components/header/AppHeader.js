@@ -69,7 +69,7 @@ const AppHeader = ({ routes, texts, language }) => {
           </CHeaderToggler>
         )}
 
-        <CHeaderNav className="d-none d-md-flex ms-auto align-items-center ">
+        <CHeaderNav className="d-none d-md-flex ms-auto align-items-center gap-xxl-5">
           <CNavItem>
             <img src={Symbol} />
           </CNavItem>
