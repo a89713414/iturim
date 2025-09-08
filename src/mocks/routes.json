@@ -1,0 +1,74 @@
+[
+  {
+    "path": "/",
+    "exact": true,
+    "name": {
+      "en": "Home",
+      "he": "בית"
+    },
+    "element": "Home"
+  },
+  {
+    "path": "/home",
+    "exact": true,
+    "name": {
+      "en": "Home",
+      "he": "בית"
+    },
+    "element": "Home"
+  },
+  {
+    "path": "/about-us",
+    "exact": true,
+    "name": {
+      "en": "about us",
+      "he": "מי אנחנו"
+    },
+    "element": "AboutUs"
+  },
+  {
+    "path": "/medical_rights",
+    "exact": true,
+    "name": {
+      "en": "about us",
+      "he": "זכויות רפואיות"
+    },
+    "element": "MedicalRights"
+  },
+  {
+    "path": "/contact-us",
+    "exact": true,
+    "name": {
+      "en": "Contact us",
+      "he": "צור קשר"
+    },
+    "element": "ContactUs"
+  },
+  {
+    "path": "/funds_from_pensia",
+    "exact": true,
+    "name": {
+      "en": "funds_from_insurance_companies",
+      "he": "משיכות כספים מפנסיה"
+    },
+    "element": "FundsFromPensia"
+  },
+  {
+    "path": "/insurances",
+    "exact": true,
+    "name": {
+      "en": "life_insurances",
+      "he": "ביטוחים"
+    },
+    "element": "Insurance"
+  },
+  {
+    "path": "/tax-refund",
+    "exact": true,
+    "name": {
+      "en": "Tax Refund",
+      "he": "החזרי מס"
+    },
+    "element": "TaxRefund"
+  }
+]

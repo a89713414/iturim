@@ -1,0 +1,346 @@
+{
+  "en": {
+    "header": {
+      "routes": [
+        {
+          "title": "Contact us",
+          "to": "contact-us"
+        },
+        {
+          "title": "About us",
+          "to": "about-us"
+        },
+        {
+          "title": "החזרי מס",
+          "to": "tax-refund"
+        },
+        {
+          "title": "Insurance",
+          "to": "insurance"
+        },
+        {
+          "title": "Withdrawals",
+          "to": "withdrawals"
+        },
+        {
+          "title": "Home",
+          "to": "home"
+        }
+      ],
+      "language": {
+        "english": "EN",
+        "hebrew": "HE"
+      },
+      "theme": {
+        "light": "Light",
+        "dark": "Dark",
+        "auto": "Auto"
+      }
+    },
+    "home": {
+      "title": "Pensiomat",
+      "form": {
+        "title": "You will be surprised how much money is waiting for you!",
+        "inputs": [
+          {
+            "label": "Full name",
+            "type": "text",
+            "placeholder": "Full name",
+            "required": true,
+            "name": "fullName",
+            "autocomplete": "name"
+          },
+          {
+            "label": "Email",
+            "type": "email",
+            "placeholder": "Email (not required)",
+            "required": false,
+            "name": "email",
+            "autocomplete": "email"
+          },
+          {
+            "label": "Phone",
+            "type": "text",
+            "placeholder": "Phone",
+            "required": true,
+            "name": "phone",
+            "autocomplete": "tel"
+          }
+        ],
+        "formButton": "Send"
+      },
+      "subTitle": "Our Services",
+      "subTitleText": "A variety of finance solutions under one roof",
+      "cardsData": [
+        {
+          "title": "Loans",
+          "icon": "cibCashapp",
+          "to": "loans"
+        },
+        {
+          "title": "Funds from insurance companies",
+          "icon": "cibUblockOrigin",
+          "to": "funds_from_insurance_companies"
+        },
+        {
+          "title": "Tax Return",
+          "icon": "cilInstitution",
+          "to": "tax_return"
+        },
+        {
+          "title": "Life insurances",
+          "icon": "cilEnvelopeLetter",
+          "to": "life_insurances"
+        }
+      ],
+      "cardsButtonTitle": "GO",
+      "processStepsTitle": "Tax Refund with Wintax - How Does It Work?",
+      "processStepsCardsData": [
+        {
+          "title": "Initial Eligibility Check Free of Charge",
+          "imgSrc": "https://wintax.co.il/wp-content/uploads/2024/03/Group-1000003912.svg",
+          "content": "A tax refund consultant will contact you to fill out a short questionnaire for an initial eligibility check and provide you with a comprehensive explanation of the process in general and this first stage in particular."
+        },
+        {
+          "title": "Transition to the Case Management Department",
+          "imgSrc": "https://wintax.co.il/wp-content/uploads/2024/03/Group-1000003913.svg",
+          "content": "At this stage, a case manager will be assigned to you, who will accompany you throughout the entire process with close and personal guidance and complete transparency. We will collect all the data and documents for you to maximize the refund."
+        },
+        {
+          "title": "Performing Various Calculations",
+          "imgSrc": "https://wintax.co.il/wp-content/uploads/2024/03/Group-1000003915.svg",
+          "content": "After receiving representation from the authorities and collecting the data, the accounting department will perform a full calculation for you, which includes optimization and cross-referencing with the National Insurance Institute and the Tax Authority to maximize the refund amount."
+        },
+        {
+          "title": "Submitting the File to the Tax Authority",
+          "imgSrc": "https://wintax.co.il/wp-content/uploads/2024/03/Group-1000003914.svg",
+          "content": "After performing the calculations and receiving the results, we will sign the reports and submit them to the Tax Authority. We will monitor the tax officer until you receive your money in your account, while keeping you informed of all the actions we are taking."
+        },
+        {
+          "title": "Receiving the Money!",
+          "imgSrc": "https://wintax.co.il/wp-content/uploads/2024/03/Group-1000003916.svg",
+          "content": "At the end of the process, where we accompanied you through all the steps, the funds will be transferred directly from the Tax Authority to your account. We will, of course, keep you updated on everything you need to know during the process, at the end of which you can finally enjoy the money that was returned to you."
+        }
+      ],
+      "whyUsTitle": "Why Us?",
+      "whyUsContent": [
+        {
+          "imgSrc": "https://yp-pitronot.co.il/wp-content/uploads/2022/06/icon3.png",
+          "text": "Service"
+        },
+        {
+          "imgSrc": "https://yp-pitronot.co.il/wp-content/uploads/2022/06/icon1.png",
+          "text": "Professionalism"
+        },
+        {
+          "imgSrc": "https://yp-pitronot.co.il/wp-content/uploads/2022/06/icon2.png",
+          "text": "Integrity"
+        },
+        {
+          "imgSrc": "https://yp-pitronot.co.il/wp-content/uploads/2022/06/icon4.png",
+          "text": "Checking for you"
+        }
+      ],
+      "customersRecommendTitle": "Customer Recommendations",
+      "customersRecommendSubTitle": "What our customers say about us?",
+      "customersRecommendContent": "“I came to Y.P Finance upon recommendation from a relative. Excellent service from the moment of the check to finding and transferring the funds, answered every question with great courtesy - highly recommend!”",
+      "customersRecommendImges": [
+        "https://yp-pitronot.co.il/wp-content/uploads/2022/06/avatar-0a37bc9b1ca55bda400c32f9a98d9a8c.jpg",
+        "https://yp-pitronot.co.il/wp-content/uploads/2022/06/avatar-0a37bc9b1ca55bda400c32f9a98d9a8c.jpg",
+        "https://yp-pitronot.co.il/wp-content/uploads/2022/06/avatar-0a37bc9b1ca55bda400c32f9a98d9a8c.jpg",
+        "https://yp-pitronot.co.il/wp-content/uploads/2022/06/avatar-0a37bc9b1ca55bda400c32f9a98d9a8c.jpg"
+      ]
+    },
+    "aboutUs": {
+      "title": "About Us",
+      "content": {
+        "whyUs": "Why Us?",
+        "service": "Service – Our representatives are available by phone during all office hours and via WhatsApp 24 hours a day (except on Saturdays).",
+        "professionalism": "Professionalism – We work with the best tax advisors in Israel, whose expertise and reputation precede them.",
+        "fairness": "Fairness – We work on a success basis only, charging for the service only after the refund has been deposited into your bank account. If you do not receive any funds from the tax authority, you do not pay.",
+        "checkingForYou": "Checking for you – In addition to submitting the reports, we check for you if you are entitled to future tax exemptions, ensure that the management fees on your savings are not too high, and that there are no duplicate insurances or other important criteria."
+      }
+    },
+    "footer": {
+      "email": "gytbsupp0rt@gmail.com",
+      "phone": "0732187410"
+    }
+  },
+  "he": {
+    "header": {
+      "routes": [
+        {
+          "title": "צור קשר",
+          "to": "contact-us"
+        },
+        {
+          "title": "זכויות רפואיות",
+          "to": "medical_rights"
+        },
+        {
+          "title": "ביטוחים",
+          "to": "insurances"
+        },
+        {
+          "title": "החזרי מס",
+          "to": "tax-refund"
+        },
+        {
+          "title": "משיכות כספים",
+          "to": "funds_from_pensia"
+        },
+        {
+          "title": "מי אנחנו",
+          "to": "about-us"
+        },
+        {
+          "title": "בית",
+          "to": "home"
+        }
+      ],
+      "language": {
+        "english": "אנגלית",
+        "hebrew": "עברית"
+      },
+      "theme": {
+        "light": "בהיר",
+        "dark": "כהה",
+        "auto": "אוטומטי"
+      }
+    },
+    "home": {
+      "title": "",
+      "form": {
+        "title": "אתם תופתעו כמה כסף מחכה לכם!",
+        "inputs": [
+          {
+            "name": "name",
+            "label": "שם מלא",
+            "type": "text",
+            "placeholder": "שם מלא",
+            "required": true,
+            "autocomplete": "name"
+          },
+          {
+            "name": "email",
+            "label": "אימייל",
+            "type": "email",
+            "placeholder": "אימייל (לא חובה)",
+            "required": false,
+            "autocomplete": "email"
+          },
+          {
+            "name": "phone",
+            "label": "טלפון",
+            "type": "text",
+            "placeholder": "טלפון",
+            "required": true,
+            "autocomplete": "tel"
+          }
+        ],
+        "formButton": "שלח"
+      },
+      "subTitle": "השירותים שלנו",
+      "subTitleText": "מגוון פתרונות פיננסים תחת קורת גג אחת",
+      "cardsData": [
+        {
+          "title": "משיכות כספים",
+          "icon": "cibCashapp",
+          "to": "funds_from_pensia"
+        },
+        {
+          "title": "זכויות רפואיות",
+          "icon": "cibUblockOrigin",
+          "to": "medical_rights"
+        },
+        {
+          "title": "החזרי מס",
+          "icon": "cilInstitution",
+          "to": "tax-refund"
+        },
+        {
+          "title": "ביטוחים",
+          "icon": "cilEnvelopeLetter",
+          "to": "insurances"
+        }
+      ],
+      "cardsButtonTitle": "כניסה",
+      "processStepsTitle": "החזר מס איתנו - איך זה עובד?",
+      "processStepsCardsData": [
+        {
+          "title": "בדיקת זכאות",
+          "imgSrc": "https://wintax.co.il/wp-content/uploads/2024/03/Group-1000003912.svg",
+          "content": "שיחה קצרה של כ 5-10 דקות ובסיומה תדעו האם מגיע לכם החזר ממס הכנסה! וגם על אילו קריטריונים."
+        },
+        {
+          "title": "חתימה על יפוי כוח",
+          "imgSrc": "https://wintax.co.il/wp-content/uploads/2024/03/Group-1000003913.svg",
+          "content": "תוך 24 שעות מקבלים יפוי כוח למס הכנסה, לאחר החתימה עליו אנחנו יכולים להתחיל לעבוד על התיק שלכם!"
+        },
+        {
+          "title": "הגשת הדוח למס הכנסה",
+          "imgSrc": "https://wintax.co.il/wp-content/uploads/2024/03/Group-1000003915.svg",
+          "content": "אנחנו מתחייבים להגיש את התיק למס הכנסה עד 30 ימי עסקים! ולעדכן מה גובה ההחזר שהוגש."
+        },
+        {
+          "title": "אישור ממס הכנסה",
+          "imgSrc": "https://wintax.co.il/wp-content/uploads/2024/03/Group-1000003914.svg",
+          "content": "לאחר ההגשה אנחנו מחכים לאישור ממס הכנסה על ההחזר שלכם! שימו לב, שלב זה עלול לקחת זמן ויש להיעזר בסבלנות, זמן ההמתנה תלוי בפקיד השומה האזורי שלכם."
+        },
+        {
+          "title": "הפקדת הכספים",
+          "imgSrc": "https://wintax.co.il/wp-content/uploads/2024/03/Group-1000003916.svg",
+          "content": "לאחר האישור ממס הכנסה הכסף יופקד ישירות לחשבון הבנק שלכם!"
+        }
+      ],
+      "whyUsTitle": "למה אנחנו?",
+      "whyUsContent": [
+        {
+          "imgSrc": "https://yp-pitronot.co.il/wp-content/uploads/2022/06/icon3.png",
+          "text": "שירות"
+        },
+        {
+          "imgSrc": "https://yp-pitronot.co.il/wp-content/uploads/2022/06/icon1.png",
+          "text": "מקצועיות"
+        },
+        {
+          "imgSrc": "https://yp-pitronot.co.il/wp-content/uploads/2022/06/icon2.png",
+          "text": "הגינות"
+        },
+        {
+          "imgSrc": "https://yp-pitronot.co.il/wp-content/uploads/2022/06/icon4.png",
+          "text": "בודקים בשבילכם"
+        }
+      ],
+      "customersRecommendTitle": "לקוחות ממליצים",
+      "customersRecommendSubTitle": "מה הלקוחות שלנו אומרים עלינו?",
+      "customersRecommendContent": "”הגעתי ל-י.פ פיננסים לאחר המלצה מקרובת משפחתי. שירות מצוין מרגע הבדיקה ועד לאיתור הכספים והעברתם, ענו על כל שאלה באדיבות רבה - ממליצה בחום!“",
+      "customersRecommendImges": [
+        "https://yp-pitronot.co.il/wp-content/uploads/2022/06/avatar-0a37bc9b1ca55bda400c32f9a98d9a8c.jpg",
+        "https://yp-pitronot.co.il/wp-content/uploads/2022/06/avatar-0a37bc9b1ca55bda400c32f9a98d9a8c.jpg",
+        "https://yp-pitronot.co.il/wp-content/uploads/2022/06/avatar-0a37bc9b1ca55bda400c32f9a98d9a8c.jpg",
+        "https://yp-pitronot.co.il/wp-content/uploads/2022/06/avatar-0a37bc9b1ca55bda400c32f9a98d9a8c.jpg"
+      ]
+    },
+    "aboutUs": {
+      "title": "עלינו",
+      "content": {
+        "whyUs": "למה אנחנו?",
+        "service": "שירות – הנציגים שלנו זמינים בטלפון בכל שעות הפעילות של המשרד ובווצאפ 24 שעות ביממה (מלבד יום שבת).",
+        "professionalism": "מקצועיות – אנחנו עובדים עם יועצי המס הטובים ביותר בישראל, המקצועיות והמוניטין שלהם הולכים לפניהם.",
+        "fairness": "הגינות – אנחנו עובדים על בסיס הצלחה בלבד, אנחנו גובים תשלום עבור השירות רק לאחר שההחזר נכנס לחשבון הבנק שלכם, אם לא קיבלתם כספים ממס הכנסה – אתם לא משלמים.",
+        "checkingForYou": "בודקים בשבילכם – במקביל להגשת הדוחות אנחנו בודקים בשבילכם האם מגיע לכם פטור ממס לעתיד, שדמי הניהול על החסכונות שלכם לא גבוהים מידי, שאין כפל ביטוחים וקריטריונים נוספים."
+      }
+    },
+    "footer": {
+      "email": {
+        "text": "support@iturimglobal.com",
+        "icon": ""
+      },
+      "phone": {
+        "text": "037383815",
+        "icon": ""
+      }
+    }
+  }
+}
