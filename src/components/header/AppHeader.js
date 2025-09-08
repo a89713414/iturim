@@ -42,15 +42,9 @@ const AppHeader = ({ routes, texts, language }) => {
 
         <CListGroup className="d-flex flex-column flex-lg-row">
           <CListGroupItem className="border-0">
-<<<<<<< HEAD
             <a href="tel:+97237383815" className="d-flex align-items-center">
               <CIcon icon={cilPhone} size="lg" className="me-2" />
               03-7383815
-=======
-            <a href="tel:+972555076614" className="d-flex align-items-center">
-              <CIcon icon={cilPhone} size="lg" className="me-2" />
-              055-5076614
->>>>>>> e10568d2a9b486de4d704d517bda9e8605d086d7
             </a>
           </CListGroupItem>
           <CListGroupItem className="border-0">
